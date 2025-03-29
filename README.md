@@ -50,7 +50,7 @@
         break;
       case 'whoami':
         typeWriter('H4mxa - A passionate developer with a love for creative coding.', output).then(() => {
-          output.innerHTML += '<div class="output-line">[Insert Avatar/Name SVG Here]</div>';
+          output.innerHTML += `<div class="output-line"><img src="https://avatars.githubusercontent.com/u/49597251?v=4" alt="H4mxa Avatar" style="width: 100px; height: 100px; border-radius: 50%; margin-top: 10px;"></div>`;
         });
         break;
       case 'projects':
