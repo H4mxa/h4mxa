@@ -29,3 +29,11 @@ Full-stack Engineer with a static-type fetish. ❤️ GraphQL
 - 👨🏾‍🎨 I design with: <img align="center" width="15px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> `figma`
 
 ### <a href="mailto:hamzak80800@gmail.com" align="center"><img align="center" width="20px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/> `email`</a> / <a href="https://linkedin.com/in/h4mxa" align="center"><img align="center" width="20px" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> `linkedin`</a> me and let's cook 🍲
+
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://h4mxa.com" src="./img/dino.gif" />
+  </picture>
+</a>
